@@ -11,7 +11,7 @@
   "dependencies": {
     "@svgr/webpack": "^8.1.0",
     "framer-motion": "^11.3.21",
-    "next": "^15.2.2",
+    "next": "^15.2.3",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "tailwind-merge": "^2.4.0"
