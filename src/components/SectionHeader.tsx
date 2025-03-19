@@ -1,7 +1,7 @@
 interface SectionHeaderProps {
-  title: string,
-  eyebrow: string,
-  description: string,
+  title: string;
+  eyebrow: string;
+  description: string;
 }
 
 
