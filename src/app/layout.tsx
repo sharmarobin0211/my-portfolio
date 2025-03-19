@@ -14,7 +14,7 @@ const calistoga = Calistoga({
 });
 
 export const metadata: Metadata = {
-  title: "Soumo Sarkar",
+  title: "Soumo Sarkar - Portfolio",
   description: "DevOps Engineer & Full-stack Developer",
 };
 
