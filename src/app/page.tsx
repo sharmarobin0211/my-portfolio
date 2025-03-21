@@ -5,6 +5,7 @@ import { HeroSection } from "@/sections/Hero";
 import { ProjectsSection } from "@/sections/Projects";
 import { ExpertiseSection } from "@/sections/Skills";
 import { TapeSection } from "@/sections/Tape";
+import { Footer } from "@/sections/Footer";
 
 
 export default function Home() {
@@ -17,6 +18,7 @@ export default function Home() {
       <ExpertiseSection />
       <AboutSection />
       <ContactSection />
+      <Footer />
     </div>
   );
 }
