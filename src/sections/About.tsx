@@ -9,6 +9,7 @@ import ReactIcon from "@/assets/icons/react.svg";
 import GolangIcon from "@/assets/icons/golang.svg";
 import NodeIcon from "@/assets/icons/node-js.svg";
 import JiraIcon from "@/assets/icons/jira.svg";
+import JavaIcon from "@/assets/icons/java.svg";
 import JavaScriptIcon from "@/assets/icons/square-js.svg";
 import mapImage from "@/assets/images/map.png";
 import smileMemoji from "@/assets/images/memoji-smile.png";
@@ -60,7 +61,7 @@ const toolboxItems: ToolboxItem[] = [
   },
   {
     title: 'Java',
-    icon: NodeIcon,
+    icon: JavaIcon,
   },
 ];
 
@@ -131,7 +132,7 @@ export const AboutSection = () => {
                 className="md:px-6"
               />
               <div className="w-72 mx-auto md:w-56">
-                <Image src={blogCover} alt="Blog cover" />
+                <Image src={blogCover} className="rounded-xl" alt="Blog cover" />
               </div>
             </Card>
 

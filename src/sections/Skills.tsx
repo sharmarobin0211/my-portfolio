@@ -44,7 +44,7 @@ const skills = [
   {
     name: "MERN Stack with TypeScript",
     purpose: "Backend-heavy Web Development",
-    experience: "I specialize in building scalable backend services using Node.js, Express, and MongoDB with TypeScript. I have implemented RESTful APIs, JWT-based authentication, optimized database queries and caching strategies with Redis. I have also developed reusable React components, and manage state efficiently using Redux Toolkit (RTK Query).",
+    experience: "I specialize in building scalable backend services using Node.js, Express, and MongoDB with TypeScript. I have implemented RESTful APIs, JWT-based authentication, optimized database queries and caching strategies with Redis. I have also developed reusable React components, and manage state efficiently using Redux Toolkit.",
     icon: mernIcon,
   },
 ];
